@@ -15,9 +15,7 @@ install_manifest.txt
 *.o
 *.exp
 *.exe
-vtk*
 *.lib
-!modules/aerodyn/py_*/vtkref
 
 # temporary matlab files
 *.asv
